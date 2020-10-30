@@ -1,8 +1,8 @@
 # LCM
 ______________
 
-This repository has computer code for life cycle modeling of Snake River spring/summer Chinook model, 
-published in Crozier, Burke, Chasco, Widener and Zabel 2020,
+This repository has computer code for life cycle modeling of Snake River spring/summer Chinook salmon populations, 
+published in Crozier, Burke, Chasco, Widener and Zabel 2020:
 Iconic salmon populations face perilous challenges from climate change across their life cycle,
 Communications Biology
 
